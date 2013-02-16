@@ -14,5 +14,7 @@ I've "slimmed" down the Google Test library by running fusing all the files into
 gtest.h/gtest-all.cc. Additionally, the examples, unit tests and other build
 files have been removed.
 
+SVN revision: r635
+
 For the original project, please visit:
 http://code.google.com/p/googletest/
